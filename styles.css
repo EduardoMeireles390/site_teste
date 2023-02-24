@@ -20,7 +20,6 @@ body {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    background-color: chocolate;
     
 }
 
@@ -29,9 +28,8 @@ body {
     display: flex;
     flex-direction: column;
     gap: 40px;
-    text-align: center;
     margin-left: 3%;
-    background-color: antiquewhite;
+
 }
 
 .apresentacao__conteudo__titulo{
@@ -75,8 +73,4 @@ body {
     font-family:'Montserrat', sans-serif;
     text-decoration: none;
     text-align: center;
-}
-.foto_joana{
-    background-color: aquamarine;
-    display: flex;
 }
